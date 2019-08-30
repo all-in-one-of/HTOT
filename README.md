@@ -3,6 +3,7 @@
 HTOT is intended to work with Tractor 2.2, Houdini 17 and Mantra.
 
 ##### How set up your machines
+
 These steps should be done by your system administrator
 1. Make sure Houdini 17 and Tractor 2.2 are correctly installed on every machine
 2. Add Houdini bin path to every machine's PATH environment variable. The path should look like :
